@@ -14,17 +14,17 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - display:
+      header: false
+    link: https://orcid.org
+    icon: orcid
+    icon_pack: ai
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - display:
-      header: false
-    link: https://orcid.org
-    icon: orcid
-    icon_pack: ai
 organizations:
   - name: Hong Kong Baptist University
     url: https://www.hkbu.edu.hk/
