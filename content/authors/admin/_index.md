@@ -29,15 +29,15 @@ organizations:
     url: https://www.hkbu.edu.hk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: PolyU
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Hong Kong Polytechnic University
+      year: 2018
+    - course: M.S. in Electronic Engineering and Information Science
+      institution: University of Science and Technology of China
+      year: 2013
+    - course: B.S. in Communication Engineering
+      institution: Northwestern Polytechnical University
+      year: 2010
 email: ""
 superuser: true
 highlight_name: false
