@@ -11,8 +11,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
@@ -24,7 +24,7 @@ social:
       header: false
     link: https://orcid.org
     icon: orcid
-    icon_pack: fas
+    icon_pack: ai
 organizations:
   - name: Hong Kong Baptist University
     url: https://www.hkbu.edu.hk/
