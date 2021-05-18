@@ -34,10 +34,10 @@ education:
     - course: Ph.D. in Computer Science
       institution: Hong Kong Polytechnic University
       year: 2018
-    - course: M.S. in Electronic Engineering and Information Science
+    - course: M.E. in Information and Communication Engineering
       institution: University of Science and Technology of China
       year: 2013
-    - course: B.S. in Communication Engineering
+    - course: B.E. in Communication Engineering
       institution: Northwestern Polytechnical University
       year: 2010
 email: ""
