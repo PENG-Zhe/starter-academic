@@ -31,7 +31,7 @@ organizations:
     url: https://www.hkbu.edu.hk/
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Hong Kong Polytechnic University
       year: 2018
     - course: M.S. in Electronic Engineering and Information Science
