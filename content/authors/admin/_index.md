@@ -3,7 +3,7 @@ title: Zhe Peng
 role: Research Assistant Professor
 bio: ""
 interests:
-  - Blockchain System
+  - Blockchain
   - Mobile Computing
   - Data Security and Privacy
 social:
