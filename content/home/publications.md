@@ -6,10 +6,14 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 90
+# Activate this widget? true/false
+active: false
 
-title: Recent Publications
+# Order that this section appears on the page.
+weight: 50
+
+# 注意这个禁用了
+title: Publications
 subtitle: ''
 
 content:

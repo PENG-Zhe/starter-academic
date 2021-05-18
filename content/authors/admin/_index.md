@@ -1,32 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhe Peng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Hong Kong Baptist University
+  url: https://www.hkbu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Blockchain System,Mobile Computing
+                                   Data Security and Privacy
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Blockchain System
+- Mobile Computing
+- Data Security and Privacy
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: PolyU
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -43,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,8 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Zhe Peng is currently a Research Assistant Professor in the Department of Computer Science, Hong Kong Baptist University (HKBU). Before joining HKBU, he was a blockchain technical director at SF Technology in 2019. He received the Ph.D. degree in Computer Science from the Hong Kong Polytechnic University and the M.Sc. degree in Electronic Engineering and Information Science from University of Science and Technology of China in 2018 and 2013, respectively. In 2010, he received the B.Sc. degree in Communication Engineering from Northwestern Polytechnical University. During 2017, he was a visiting scholar in the Department of Electrical and Computer Engineering at Stony Brook University, supervised by Prof. Yuanyuan Yang. His primary research interests include blockchain system, mobile computing, data security and privacy. His work has been published in several top-tier journals and conferences, such as TMC, TON, TASE, CCS, INFOCOM, etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
