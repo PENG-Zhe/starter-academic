@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Professional Experiences
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -47,9 +47,9 @@ design:
   columns: '2'
 ---
 
-### Academic Services
-- Journal reviewer of TKDE 2021.
-- External reviewer of WWW 2021.
-- External reviewer of ICDE 2020, VLDB 2020.
-- External reviewer of KDD 2019, IJCAI 2019, CIKM 2019.
-### Work Experience
+; ### Academic Services
+; - Journal reviewer of TKDE 2021.
+; - External reviewer of WWW 2021.
+; - External reviewer of ICDE 2020, VLDB 2020.
+; - External reviewer of KDD 2019, IJCAI 2019, CIKM 2019.
+; ### Work Experience
