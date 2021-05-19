@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Zhe PENG's Homepage # Website name
+title: Welcome to Zhe PENG's Homepage # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -57,7 +57,7 @@ markup:
     endLevel: 3
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
