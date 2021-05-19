@@ -24,27 +24,28 @@ date_format: Jan 2006
 experience:
   - title: Blockchain Technical Director
     company: SF Technology
-    location: China
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    location: Shenzhen, China
+    date_start: '2018-10-01'
+    date_end: '2019-12-31'   # '' means present
+  #  description: Taught electronic engineering and researched semiconductor physics.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Visiting Student
+    company: Stony Brook University
+  #  company_url: ''
+  #  company_logo: org-x
+    location: Stony Brook, NY
+    date_start: '2017-08-01'
+    date_end: '2017-10-31'   # '' means present
+  #  description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Software Engineer
+    company: TP-LINK
+    location: Shenzhen, China
+    date_start: '2013-07'
+    date_end: '2014-03'   # '' means present
+  #  description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
 ---
-
 

@@ -24,18 +24,18 @@ email: pengzhe [at] comp.hkbu.edu.hk
 phone: +852 3411 7599
 address:
   street: DLB 804, 55 Renfrew Road
-  city: Hong Kong
-  region: Kowloon Tong
+  city: Kowloon Tong
+  region: Hong Kong
 #  postcode: '94305'
 #  country: United States
 #  country_code: US
 # coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+#  latitude: '22.33723'
+#  longitude: '114.18196'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'email for appointment'
-#  - 'Wednesday 09:00 to 10:00'
+# office_hours:
+#  - 'Wednesday 17:00 to 18:30'
+#  - 'Otherwise email for appointment'
 # appointment_url: 'https://calendly.com'
 
 # Site header
