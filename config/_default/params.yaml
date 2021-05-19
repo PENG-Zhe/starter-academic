@@ -20,23 +20,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: pengzhe@comp.hkbu.edu.hk
-phone: 在config/params.yaml文件中修改，保留需要的项目即可
+email: pengzhe [at] comp.hkbu.edu.hk
+phone: +852 3411 7599
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  street: DLB 804, 55 Renfrew Road
+  city: Hong Kong
+  region: Kowloon Tong
+#  postcode: '94305'
+#  country: United States
+#  country_code: US
+# coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'email for appointment'
+#  - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
 
 # Site header
 
