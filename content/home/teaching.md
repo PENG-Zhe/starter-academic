@@ -20,8 +20,6 @@ design:
 ---
 
 
-### Reading Recommendations
-I will be teaching the following course at VT (Spring 2021)
-> hello world
-- CS 5594: Blockchain Technologies
-- hello
+I have been teaching the following courses at Hong Kong Baptist University
+- COMP 7200: Blockchain Technology
+- COMP 4087: Selected Topics in Web Technology and Data Engineering
