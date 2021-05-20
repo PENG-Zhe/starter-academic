@@ -27,7 +27,7 @@ experience:
     location: Shenzhen, China
     date_start: '2018-10-01'
     date_end: '2019-12-31'   # '' means present
-  #  description: Taught electronic engineering and researched semiconductor physics.
+    description: test
         
   - title: Visiting Student
     company: Stony Brook University
