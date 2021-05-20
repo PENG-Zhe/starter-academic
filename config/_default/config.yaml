@@ -5,7 +5,7 @@
 
 title: Welcome to Zhe PENG's Homepage # Website name
 baseurl: '' # Website URL
-copyright: '© 2021 · Zhe PENG' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright © 2021 · Zhe PENG' # Footer text
 
 ############################
 ## LANGUAGE
