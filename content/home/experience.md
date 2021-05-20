@@ -27,7 +27,7 @@ experience:
     location: Shenzhen, China
     date_start: '2018-10-01'
     date_end: '2019-12-31'   # '' means present
-    description: test
+  #  description: test
         
   - title: Visiting Student
     company: Stony Brook University
@@ -48,10 +48,3 @@ experience:
 design:
   columns: '2'
 ---
-
-### Academic Services
-- Journal reviewer of TKDE 2021.
-- External reviewer of WWW 2021.
-- External reviewer of ICDE 2020, VLDB 2020.
-- External reviewer of KDD 2019, IJCAI 2019, CIKM 2019.
-### Work Experience
