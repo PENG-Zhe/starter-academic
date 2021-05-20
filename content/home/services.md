@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Services"
-subtitle = "[All Services>>](/service)"
+subtitle = "[All Services >>](/service)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
