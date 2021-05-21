@@ -26,9 +26,9 @@ abstract: Lorem ipsum dolor
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: Custom Link
-url: http://example.org
+#links:
+# - name: Custom Link
+#url: http://example.org
 ---
 
 Supplementary notes
