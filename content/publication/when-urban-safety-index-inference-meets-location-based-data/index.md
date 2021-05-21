@@ -22,8 +22,6 @@ publication: CCS
 
 abstract: Lorem ipsum dolor
 
-tags: []
-
 # Display this page in the Featured widget?
 featured: true
 
