@@ -1,5 +1,5 @@
 ---
-title: When Urban Safety Index Inference Meets Location-based Data
+title: "When Urban Safety Index Inference Meets Location-based Data"
 publication_types:
   - "1"
 authors:
