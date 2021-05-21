@@ -19,7 +19,6 @@ design:
   # Use a dark navy background with light text.
 ---
 
-
 I have been teaching the following courses at Hong Kong Baptist University.
 - COMP 7200: Blockchain Technology
 - COMP 4087: Selected Topics in Web Technology and Data Engineering
