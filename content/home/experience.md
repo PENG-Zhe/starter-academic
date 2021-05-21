@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant Professor
+    company: Hong Kong Baptist University
+    location: Hong Kong
+    date_start: '2020-01-01'
+    date_end: ''   # '' means present
+  #  description: test
+
   - title: Blockchain Technical Director
     company: SF Technology
     location: Shenzhen, China
