@@ -1,7 +1,6 @@
 ---
 title: "When Urban Safety Index Inference Meets Location-based Data"
-publication_types:
-  - "1"
+
 authors:
   - Zhe Peng
   - Yuan Yao
@@ -9,18 +8,13 @@ authors:
   - Songtao Guo
   - and Yuanyuan Yang
 
-draft: false
-
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
-
 date: 2021-05-14T09:30:46.048Z
+
+publication_types: ["1"]
 
 publication: CCS
 
-abstract: Lorem ipsum dolor
+abstract: Lorem
 
 # Display this page in the Featured widget?
 featured: true
@@ -30,5 +24,3 @@ featured: true
 # - name: Custom Link
 #url: http://example.org
 ---
-
-Supplementary notes
