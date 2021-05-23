@@ -28,13 +28,13 @@ doi: ""
 
 #abstract: Lorem
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2027-01-01T00:00:00Z"
-
 #tags: []
 
 # Display this page in the Featured widget?
 featured: true
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: "2027-01-01T00:00:00Z"
 
 # Custom links (uncomment lines below)
 # links:
