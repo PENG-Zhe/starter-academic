@@ -1,5 +1,5 @@
 ---
-title: "when urban safety index inference"
+title: "Test Paper Title"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -37,7 +37,7 @@ abstract: Lorem
 #tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
