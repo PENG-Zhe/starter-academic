@@ -15,4 +15,5 @@ caption = ""
 
 +++
 
-{{< readfromfile "/content/servicelist.dat" 1000 >}} 
+# {{< readfromfile "/content/servicelist.dat" 1000 >}} 
+{{< service 1000 >}} 

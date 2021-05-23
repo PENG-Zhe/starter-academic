@@ -50,4 +50,5 @@ subtitle = "[All Services >>](/service)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/servicelist.dat" 10 >}} 
+# {{< readfromfile "/content/servicelist.dat" 10 >}} 
+{{< service 10 >}} 
