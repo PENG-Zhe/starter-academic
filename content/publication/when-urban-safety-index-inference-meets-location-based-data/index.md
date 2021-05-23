@@ -13,12 +13,6 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -29,10 +23,13 @@ publication_types: ["1"]
 publication: In *CCS*
 #publication_short: In *ICW*
 
-abstract: Lorem
+date: "2013-07-01T00:00:00Z"
+doi: ""
 
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#abstract: Lorem
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2027-01-01T00:00:00Z"
 
 #tags: []
 
