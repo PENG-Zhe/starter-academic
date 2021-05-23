@@ -1,6 +1,5 @@
 ---
 title: title-test
-subtitle: subtitle
 publication_types:
   - "1"
 authors:
