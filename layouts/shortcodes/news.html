@@ -1,6 +1,6 @@
 {{ $lines := .Get 0 }}
 {{- $.Scratch.Set "myLimit" 0 }}
-{{ range $idx, $key := sort $.Site.Data.news.news ".news_date" "desc"}}
+{{ range $.Site.Data.news.news}}
   {{- $.Scratch.Set "myLimit" (add ($.Scratch.Get "myLimit") 1) }}
   {{- if le ($.Scratch.Get "myLimit") ($lines) }}
 <div class="row">
