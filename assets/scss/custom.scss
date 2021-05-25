@@ -1,0 +1,23 @@
+#navbar-main a:hover{
+  color: #2B66BA;
+  transition: color 0.1s ease;
+}
+
+#navbar-main .main-menu-item ul li a:hover{
+  color: #2B66BA;
+  transition: color 0.1s ease;
+}
+
+.navbar .navbar-nav .nav-link.active{
+  color: #2B66BA !important;
+  font-weight: bold !important;
+}
+
+ul.nav-icons li.nav-item a:hover{
+  color: #2B66BA;
+}
+.article-style{
+  text-align: justify;
+}
+
+
