@@ -1,5 +1,5 @@
 ---
-title: "<a href="https://baidu.com" target="_blank">Test Paper Title</a>"
+title: <a href="https://baidu.com" target="_blank">Test Paper Title</a>
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
