@@ -6,10 +6,10 @@
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  {{ .Title| markdownify }}
   <br/>
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" . }}
+    {{ partial "page_metadata_authors" . | markdownify }}
   </span>
   <br>
   {{ if .Params.publication_short }}
@@ -24,9 +24,9 @@
   {{ else }}
 
   <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" . }}.
+    {{ partial "page_metadata_authors" . | markdownify }}
   </span>
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  {{ .Title | markdownify}}.
   {{ if .Params.publication_short }}
   {{- .Params.publication_short | markdownify -}},
   {{ else if .Params.publication }}

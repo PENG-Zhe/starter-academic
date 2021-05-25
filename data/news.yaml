@@ -1,5 +1,5 @@
 news:
-  - content: Won <a href="http://write.blog.csdn.net/postlist" target="_blank">TEST</a> Best Paper Award at [MUST 2021](https://zzudb.github.io/must2021/).
+  - content: Won Best Paper Award at <a href="https://zzudb.github.io/must2021/" target="_blank">MUST 2021</a>.
     news_date: 'Apr 2021'
   - content: Our paper on Blockchain accepted to [SIGMOD 2021](https://2021.sigmod.org/index.shtml).
     news_date: 'Mar 2021'
@@ -15,4 +15,3 @@ news:
     news_date: 'Nov 2019'
   - content: Delivered an Invited Talk on Blockchain Applications in Smart Supply Chain at [GS1 HK IoT Conference 2019](https://www.gs1hk.org/gs1hk-iot-conference).
     news_date: <font color=red>Jun 2019</font>
-
