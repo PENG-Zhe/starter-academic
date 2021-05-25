@@ -1,23 +1,17 @@
 ---
-title: "when urban safety index inference"
+title: "Test Paper Title"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zhe Peng
+- Zhe **Peng**
 - Robert Ford
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,18 +20,21 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: CCS
+publication: In *CCS*
 #publication_short: In *ICW*
 
-abstract: Lorem
+date: "1999-07-01T00:00:00Z"
+doi: ""
 
-# Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#abstract: Lorem
 
 #tags: []
 
 # Display this page in the Featured widget?
 featured: true
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: "2027-01-01T00:00:00Z"
 
 # Custom links (uncomment lines below)
 # links:
@@ -51,7 +48,8 @@ featured: true
 #url_project: ''
 #url_slides: ''
 #url_source: ''
-#url_video: ''
+url_video: 'https://www.youtube.com'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

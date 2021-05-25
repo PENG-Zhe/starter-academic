@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "[An example conference paper1](https://baidu.com)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "1998-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -41,8 +41,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+#  - name: Custom Link
+#    url: http://example.org
 
 url_pdf: ''
 url_code: ''
