@@ -4,8 +4,8 @@
   {{- $.Scratch.Set "myLimit" (add ($.Scratch.Get "myLimit") 1) }}
   {{- if le ($.Scratch.Get "myLimit") ($lines) }}
 <div class="row">
-  <div class="col-md-3">{{.news_date| markdownify}}</div>
-  <div class="col-md-9">{{.content| markdownify}}</div>
+  <div class="col-md-2">{{.news_date| markdownify}}</div>
+  <div class="col-md-10">{{.content| markdownify}}</div>
 </div>
   {{- end }}
 {{end}}
