@@ -78,4 +78,3 @@ subtitle = "[All Services >>](/service)"
 - IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)
 - IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
 
-
