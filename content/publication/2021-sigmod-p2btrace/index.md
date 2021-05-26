@@ -5,7 +5,7 @@ title: "P2B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Abba, Ccc Ddd"
+- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, Xiaowen Chu"
 #- Robert Ford
 
 # Author notes (optional)
@@ -20,21 +20,15 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *CCS*
-#publication_short: In *ICW*
+publication: ACM International Conference on Management of Data (*SIGMOD*)
 
-date: "1999-07-01T00:00:00Z"
+date: "2021-06-20T00:00:00Z"
 doi: ""
-
-#abstract: Lorem
 
 #tags: []
 
 # Display this page in the Featured widget?
 featured: true
-
-# Schedule page publish date (NOT publication's date).
-#publishDate: "2027-01-01T00:00:00Z"
 
 # Custom links (uncomment lines below)
 # links:
@@ -46,25 +40,9 @@ featured: true
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-url_slides: '/publication/when-urban-safety/when-urban-safety.pptx'
+#url_slides: '/publication/when-urban-safety/when-urban-safety.pptx'
 #url_source: ''
-url_video: 'https://www.youtube.com'
-
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-#projects:
-#- example
+#url_video: 'https://www.youtube.com'
 
 ---
 
