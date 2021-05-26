@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Recent Publications
-subtitle: "[All publications > >](/publication)"
+subtitle: "[All publications **>****>**](/publication)"
 
 content:
   # Page type to display. E.g. post, talk, publication...
