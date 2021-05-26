@@ -20,9 +20,9 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM International Conference on Management of Data (*SIGMOD*)
+publication: ACM International Conference on Management of Data *(SIGMOD)*
 
-date: "2021-06-20"
+date: "2021-05-20"
 doi: ""
 
 #tags: []

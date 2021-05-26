@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE International Conference on Communications (*ICC*)
+publication: IEEE International Conference on Communications *(ICC)*
 
 date: "2016-05-23"
 doi: ""

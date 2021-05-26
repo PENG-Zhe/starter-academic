@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE International Conference on Sensing, Communication and Networking (*SECON*)
+publication: IEEE International Conference on Sensing, Communication and Networking *(SECON)*
 
 date: "2015-06-22"
 doi: ""
