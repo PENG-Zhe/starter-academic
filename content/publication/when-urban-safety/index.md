@@ -46,7 +46,7 @@ featured: true
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-url_slides: '/publication/when-urban-sagety/when-urban-sagety.pptx'
+url_slides: '/publication/when-urban-safety/when-urban-safety.pptx'
 #url_source: ''
 url_video: 'https://www.youtube.com'
 
