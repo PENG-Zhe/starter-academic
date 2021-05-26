@@ -5,7 +5,7 @@ title: "VQL: Providing Query Efficiency and Data Authenticity in Blockchain Syst
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Haotian Wu, Bin Xiao, Songtao Guo"
+- "**Zhe Peng**, Haotian Wu, Bin Xiao, and Songtao Guo"
 #- Robert Ford
 
 # Author notes (optional)
@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE International Conference on Data Engineering Workshops
+publication: IEEE International Conference on Data Engineering *(ICDE)* Workshops
 
 date: "2019-04-08"
 doi: ""

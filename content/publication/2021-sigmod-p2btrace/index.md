@@ -5,7 +5,7 @@ title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, Xiaowen Chu"
+- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, and Xiaowen Chu"
 #- Robert Ford
 
 # Author notes (optional)

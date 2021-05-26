@@ -5,7 +5,7 @@ title: "BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intellig
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Jinbin Huang, Haixin Wang, Shihao Wang, Xiaowen Chu, Xinzhi Zhang, Li Chen, Xin Huang, Xiaoyi Fu, Yike Guo, Jianliang Xu"
+- "**Zhe Peng**, Jinbin Huang, Haixin Wang, Shihao Wang, Xiaowen Chu, Xinzhi Zhang, Li Chen, Xin Huang, Xiaoyi Fu, Yike Guo, and Jianliang Xu"
 #- Robert Ford
 
 # Author notes (optional)
@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Database Systems for Advanced Applications Workshops
+publication: International Conference on Database Systems for Advanced Applications *(DASFAA)* Workshops
 
 date: "2021-04-11"
 doi: ""

@@ -5,7 +5,7 @@ title: "Make Smartphones Last A Day: Pre-processing Based Computer Vision Applic
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "Jiwei Li, **Zhe Peng**, Bin Xiao, Yu Hua"
+- "Jiwei Li, **Zhe Peng**, Bin Xiao, and Yu Hua"
 #- Robert Ford
 
 # Author notes (optional)

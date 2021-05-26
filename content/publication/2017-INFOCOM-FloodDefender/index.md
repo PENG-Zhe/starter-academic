@@ -5,7 +5,7 @@ title: "FloodDefender: Protecting Data and Control Plane Resources under SDN-aim
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "Shang Gao, **Zhe Peng**, Bin Xiao, Aiqun Hu, Kui Ren"
+- "Shang Gao, **Zhe Peng**, Bin Xiao, Aiqun Hu, and Kui Ren"
 #- Robert Ford
 
 # Author notes (optional)

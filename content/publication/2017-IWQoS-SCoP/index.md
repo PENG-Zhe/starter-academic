@@ -5,7 +5,7 @@ title: "SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "Shang Gao, **Zhe Peng**, Bin Xiao, Qingjun Xiao, Yubo Song"
+- "Shang Gao, **Zhe Peng**, Bin Xiao, Qingjun Xiao, and Yubo Song"
 #- Robert Ford
 
 # Author notes (optional)

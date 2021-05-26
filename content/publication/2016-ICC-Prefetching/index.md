@@ -5,7 +5,7 @@ title: "Secure and Energy Efficient Prefetching Design for Smartphones"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "Shang Gao, **Zhe Peng**, Bin Xiao, Yubo Song"
+- "Shang Gao, **Zhe Peng**, Bin Xiao, and Yubo Song"
 #- Robert Ford
 
 # Author notes (optional)

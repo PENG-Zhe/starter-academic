@@ -5,7 +5,7 @@ title: "Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "Shang Gao, Zecheng Li, **Zhe Peng**, Bin Xiao"
+- "Shang Gao, Zecheng Li, **Zhe Peng**, and Bin Xiao"
 #- Robert Ford
 
 # Author notes (optional)
