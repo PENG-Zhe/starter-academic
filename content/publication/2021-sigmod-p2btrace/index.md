@@ -1,6 +1,6 @@
 ---
-title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
-
+#title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
+title: "when urban safety index inferencen<sup>2</sup>=n+1"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
