@@ -1,11 +1,11 @@
 ---
-title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
+title: "VQL: Providing Query Efficiency and Data Authenticity in Blockchain Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, Xiaowen Chu"
+- "**Zhe Peng**, Haotian Wu, Bin Xiao, Songtao Guo"
 #- Robert Ford
 
 # Author notes (optional)
@@ -20,9 +20,9 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM International Conference on Management of Data (*SIGMOD*)
+publication: IEEE International Conference on Data Engineering Workshops
 
-date: "2021-06-20"
+date: "2019-04-08"
 doi: ""
 
 #tags: []

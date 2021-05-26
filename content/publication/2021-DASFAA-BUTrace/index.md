@@ -1,11 +1,11 @@
 ---
-title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
+title: "BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, Xiaowen Chu"
+- "**Zhe Peng**, Jinbin Huang, Haixin Wang, Shihao Wang, Xiaowen Chu, Xinzhi Zhang, Li Chen, Xin Huang, Xiaoyi Fu, Yike Guo, Jianliang Xu"
 #- Robert Ford
 
 # Author notes (optional)
@@ -20,9 +20,9 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM International Conference on Management of Data (*SIGMOD*)
+publication: International Conference on Database Systems for Advanced Applications Workshops
 
-date: "2021-06-20"
+date: "2021-04-11"
 doi: ""
 
 #tags: []

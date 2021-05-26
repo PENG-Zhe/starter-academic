@@ -1,11 +1,11 @@
 ---
-title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
+title: "An Efficient Learning-based  Approach to Multi-objective Route Planning in a Smart City"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, Xiaowen Chu"
+- "Yuan Yao, **Zhe Peng**, Bin Xiao, Jichang Guan"
 #- Robert Ford
 
 # Author notes (optional)
@@ -20,9 +20,9 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM International Conference on Management of Data (*SIGMOD*)
+publication: IEEE International Conference on Communications (*ICC*)
 
-date: "2021-06-20"
+date: "2017-05-21"
 doi: ""
 
 #tags: []
