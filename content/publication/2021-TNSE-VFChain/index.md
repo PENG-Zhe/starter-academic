@@ -1,5 +1,6 @@
 ---
-title: "VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems"
+#title: "VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems"
+title: '<a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain: Enabling Verifiable and Auditable Federated Learning via Blockchain Systems</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
