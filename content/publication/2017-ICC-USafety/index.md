@@ -1,5 +1,5 @@
 ---
-title: "U-Safety: Urban Safety Analysis in A Smart City"
+title: "U-Safety: Urban Safety Analysis in a Smart City"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
