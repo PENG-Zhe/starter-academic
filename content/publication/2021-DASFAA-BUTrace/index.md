@@ -1,5 +1,6 @@
 ---
-title: "BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing"
+#title: "BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing"
+title: '<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-73216-5_26" target="_blank">BU-Trace: A Permissionless Mobile System for Privacy-Preserving Intelligent Contact Tracing</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
