@@ -23,7 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: IEEE Internet of Things Journal (**IoTJ**)
 
-date: "2018-08-01"
+date: "2018-06-01"
 doi: ""
 
 #tags: []

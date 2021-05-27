@@ -23,7 +23,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: IEEE International Conference on Communications (**ICC**)
 
-date: "2017-05-21"
+date: "2017-05-22"
 doi: ""
 
 #tags: []

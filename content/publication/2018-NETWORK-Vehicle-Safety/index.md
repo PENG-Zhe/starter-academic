@@ -23,7 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: IEEE Network
 
-date: "2018-08-03"
+date: "2018-08-01"
 doi: ""
 
 #tags: []
