@@ -1,6 +1,6 @@
 ---
 #title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
-title: "<a href="https://baidu.com" target="_blank">P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics</a>"
+title: '<a href="https://baidu.com" target="_blank">P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
