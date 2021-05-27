@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Database Systems for Advanced Applications *(**DASFAA**)* Workshops
+publication: International Conference on Database Systems for Advanced Applications (**DASFAA**) Workshops
 
 date: "2021-04-11"
 doi: ""

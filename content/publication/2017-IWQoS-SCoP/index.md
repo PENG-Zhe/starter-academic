@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/ACM International Symposium on Quality of Service *(**IWQoS**)*
+publication: IEEE/ACM International Symposium on Quality of Service (**IWQoS**)
 
 date: "2017-06-14"
 doi: ""

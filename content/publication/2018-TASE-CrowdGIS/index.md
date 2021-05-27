@@ -20,7 +20,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Automation Science and Engineering *(**TASE**)*
+publication: IEEE Transactions on Automation Science and Engineering (**TASE**)
 
 date: "2018-07-25"
 doi: ""

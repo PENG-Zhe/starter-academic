@@ -20,7 +20,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/ACM Transactions on Networking *(**TON**)*
+publication: IEEE/ACM Transactions on Networking (**TON**)
 
 date: "2020-04-15"
 doi: ""

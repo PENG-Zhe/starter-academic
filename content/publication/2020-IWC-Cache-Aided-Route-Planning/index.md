@@ -20,7 +20,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Wireless Communications *(**IWC**)*
+publication: IEEE Wireless Communications (**IWC**)
 
 date: "2020-09-01"
 doi: ""

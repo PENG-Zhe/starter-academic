@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM Conference on Computer and Communications Security *(**CCS**)*
+publication: ACM Conference on Computer and Communications Security (**CCS**)
 
 date: "2019-11-11"
 doi: ""
