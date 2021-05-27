@@ -1,5 +1,6 @@
 ---
-title: "FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks"
+#title: "FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks"
+title: '<a href="https://ieeexplore.ieee.org/document/8057009" target="_blank">FloodDefender: Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

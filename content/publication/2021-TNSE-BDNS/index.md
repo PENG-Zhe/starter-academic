@@ -1,5 +1,6 @@
 ---
-title: "B-DNS: A Secure and Efficient DNS Based on the Blockchain Technology"
+#title: "B-DNS: A Secure and Efficient DNS Based on the Blockchain Technology"
+title: '<a href="https://ieeexplore.ieee.org/document/9387163" target="_blank">B-DNS: A Secure and Efficient DNS Based on the Blockchain Technology</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

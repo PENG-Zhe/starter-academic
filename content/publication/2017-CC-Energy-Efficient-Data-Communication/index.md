@@ -1,5 +1,6 @@
 ---
-title: "Smartphone-Assisted Energy Efficient Data Communication for Wearable Devices"
+#title: "Smartphone-Assisted Energy Efficient Data Communication for Wearable Devices"
+title: '<a href="https://www.sciencedirect.com/science/article/abs/pii/S0140366416303012?via%3Dihub" target="_blank">Smartphone-Assisted Energy Efficient Data Communication for Wearable Devices</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

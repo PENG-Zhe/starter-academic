@@ -1,5 +1,6 @@
 ---
-title: "Real-Time Cache-Aided Route Planning based on Mobile Edge Computing"
+#title: "Real-Time Cache-Aided Route Planning based on Mobile Edge Computing"
+title: '<a href="https://ieeexplore.ieee.org/document/9183790" target="_blank">Real-Time Cache-Aided Route Planning based on Mobile Edge Computing</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

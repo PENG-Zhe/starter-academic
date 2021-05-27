@@ -1,5 +1,6 @@
 ---
-title: "Detection and Mitigation of DoS Attacks in Software Defined Networks"
+#title: "Detection and Mitigation of DoS Attacks in Software Defined Networks"
+title: '<a href="https://ieeexplore.ieee.org/document/9068479" target="_blank">Detection and Mitigation of DoS Attacks in Software Defined Networks</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

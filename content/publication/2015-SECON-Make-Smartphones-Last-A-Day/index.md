@@ -1,5 +1,6 @@
 ---
-title: "Make Smartphones Last A Day: Pre-processing Based Computer Vision Application Offloading"
+#title: "Make Smartphones Last A Day: Pre-processing Based Computer Vision Application Offloading"
+title: '<a href="https://ieeexplore.ieee.org/document/7338347" target="_blank">Make Smartphones Last A Day: Pre-processing Based Computer Vision Application Offloading</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

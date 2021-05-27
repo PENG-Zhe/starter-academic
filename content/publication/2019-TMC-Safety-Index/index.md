@@ -1,5 +1,6 @@
 ---
-title: "When Urban Safety Index Inference Meets Location-based Data"
+#title: "When Urban Safety Index Inference Meets Location-based Data"
+title: '<a href="https://ieeexplore.ieee.org/document/8526338" target="_blank">When Urban Safety Index Inference Meets Location-based Data</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

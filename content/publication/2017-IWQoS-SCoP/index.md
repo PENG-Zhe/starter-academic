@@ -1,5 +1,6 @@
 ---
-title: "SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing"
+#title: "SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing"
+title: '<a href="https://ieeexplore.ieee.org/document/7969114" target="_blank">SCoP: Smartphone Energy Saving by Merging Push Services in Fog Computing</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

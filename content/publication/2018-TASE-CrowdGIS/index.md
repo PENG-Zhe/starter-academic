@@ -1,5 +1,6 @@
 ---
-title: "CrowdGIS: Updating Digital Maps via Mobile Crowdsensing"
+#title: "CrowdGIS: Updating Digital Maps via Mobile Crowdsensing"
+title: '<a href="https://ieeexplore.ieee.org/document/8094940" target="_blank">CrowdGIS: Updating Digital Maps via Mobile Crowdsensing</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -1,5 +1,6 @@
 ---
-title: "Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System"
+#title: "Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System"
+title: '<a href="https://dl.acm.org/doi/10.1145/3319535.3354203" target="_blank">Power Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

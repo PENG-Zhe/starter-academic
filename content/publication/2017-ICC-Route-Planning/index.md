@@ -1,5 +1,6 @@
 ---
-title: "An Efficient Learning-based  Approach to Multi-objective Route Planning in a Smart City"
+#title: "An Efficient Learning-based  Approach to Multi-objective Route Planning in a Smart City"
+title: '<a href="https://ieeexplore.ieee.org/document/7997454" target="_blank">An Efficient Learning-based  Approach to Multi-objective Route Planning in a Smart City</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

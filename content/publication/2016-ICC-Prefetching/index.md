@@ -1,5 +1,6 @@
 ---
-title: "Secure and Energy Efficient Prefetching Design for Smartphones"
+#title: "Secure and Energy Efficient Prefetching Design for Smartphones"
+title: '<a href="https://ieeexplore.ieee.org/document/7511423" target="_blank">Secure and Energy Efficient Prefetching Design for Smartphones</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -1,5 +1,6 @@
 ---
-title: "Vehicle Safety Improvement through Deep Learning and Mobile Sensing"
+#title: "Vehicle Safety Improvement through Deep Learning and Mobile Sensing"
+title: '<a href="https://ieeexplore.ieee.org/document/8425297" target="_blank">Vehicle Safety Improvement through Deep Learning and Mobile Sensing</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

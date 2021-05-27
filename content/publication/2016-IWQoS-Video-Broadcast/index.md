@@ -1,5 +1,6 @@
 ---
-title: "Smartphone-Assisted Smooth Live Video Broadcast on Wearable Cameras"
+#title: "Smartphone-Assisted Smooth Live Video Broadcast on Wearable Cameras"
+title: '<a href="https://ieeexplore.ieee.org/document/7590439" target="_blank">Smartphone-Assisted Smooth Live Video Broadcast on Wearable Cameras</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

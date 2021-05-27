@@ -1,5 +1,6 @@
 ---
-title: "New Mobility-aware Application Offloading Design with Low Delay and Energy Efficiency"
+#title: "New Mobility-aware Application Offloading Design with Low Delay and Energy Efficiency"
+title: '<a href="https://ieeexplore.ieee.org/document/8422390" target="_blank">New Mobility-aware Application Offloading Design with Low Delay and Energy Efficiency</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

@@ -1,5 +1,6 @@
 ---
-title: "Indoor Floor Plan Construction through Sensing Data Collected from Smartphones"
+#title: "Indoor Floor Plan Construction through Sensing Data Collected from Smartphones"
+title: '<a href="https://ieeexplore.ieee.org/document/8428421" target="_blank">Indoor Floor Plan Construction through Sensing Data Collected from Smartphones</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
