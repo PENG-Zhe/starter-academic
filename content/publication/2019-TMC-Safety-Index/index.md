@@ -20,7 +20,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Mobile Computing *(TMC)*
+publication: IEEE Transactions on Mobile Computing *(**TMC**)*
 
 date: "2019-01-15"
 doi: ""

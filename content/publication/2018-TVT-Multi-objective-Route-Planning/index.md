@@ -20,7 +20,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Vehicular Technology *(TVT)*
+publication: IEEE Transactions on Vehicular Technology *(**TVT**)*
 
 date: "2018-02-01"
 doi: ""

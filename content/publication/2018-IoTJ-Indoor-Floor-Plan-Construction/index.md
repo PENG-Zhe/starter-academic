@@ -20,7 +20,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Internet of Things Journal *(IoTJ)*
+publication: IEEE Internet of Things Journal *(**IoTJ**)*
 
 date: "2018-08-01"
 doi: ""

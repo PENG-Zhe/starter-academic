@@ -20,7 +20,7 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE International Conference on Data Engineering *(ICDE)* Workshops
+publication: IEEE International Conference on Data Engineering *(**ICDE**)* Workshops
 
 date: "2019-04-08"
 doi: ""
