@@ -49,6 +49,7 @@
         {{ $pack_prefix = "fa" }}
         {{ end }}
         {{ $link := .link }}
+        {{ $icon := .icon }}
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
         {{ if not $scheme }}
@@ -56,8 +57,11 @@
         {{ else if in (slice "http" "https") $scheme }}
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
+        {{ if in (slice "cv") $icon }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
         <li>
-          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}" target="_blank">
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}" >
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
