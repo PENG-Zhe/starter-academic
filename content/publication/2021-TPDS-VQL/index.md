@@ -1,12 +1,12 @@
 ---
-title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
-#title: '<a href="https://dl.acm.org/doi/abs/10.1145/3448016.3459237" target="_blank">P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics</a>'
+#title: "VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems"
+title: '<a href="https://ieeexplore.ieee.org/document/9541060" target="_blank">VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Cheng Xu, Haixin Wang, Jinbin Huang, Jianliang Xu, and Xiaowen Chu"
+- "Haotian Wu, **Zhe Peng**, Songtao Guo, Yuanyuan Yang, and Bin Xiao"
 #- Robert Ford
 
 # Author notes (optional)
@@ -18,12 +18,12 @@ authors:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM International Conference on Management of Data (**SIGMOD**)
+publication: IEEE Transactions on Parallel and Distributed Systems (**TPDS**)
 
-date: "2021-05-20"
+date: "2021-09-20"
 doi: ""
 
 #tags: []
