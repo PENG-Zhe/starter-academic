@@ -21,5 +21,6 @@ design:
 
 I have been teaching the following courses at Hong Kong Baptist University.
 - COMP 7200 Blockchain Technology
+- COMP 4137	Blockchain Technology and Applications
 - COMP 4087 Selected Topics in Web Technology and Data Engineering
 - COMP 2865 Fundamental of Data Analysis and Management
