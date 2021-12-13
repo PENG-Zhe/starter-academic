@@ -23,7 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Parallel and Distributed Systems (**TPDS**)
 
-date: "2022-06-01"
+date: "2021-06-01"
 doi: ""
 
 #tags: []
