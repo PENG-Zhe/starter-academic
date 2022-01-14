@@ -23,7 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Network Science and Engineering (**TNSE**)
 
-date: "2021-03-12"
+date: "2022-01-14"
 doi: ""
 
 #tags: []
