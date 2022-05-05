@@ -40,9 +40,9 @@ experience:
     company: Stony Brook University
   #  company_url: ''
   #  company_logo: org-x
-    location: Stony Brook, NY
-    date_start: '2017-08-01'
-    date_end: '2017-10-31'   # '' means present
+    location: Stony Brook, NY, USA
+    date_start: '2017-09-01'
+    date_end: '2018-02-28'   # '' means present
   #  description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Software Engineer
