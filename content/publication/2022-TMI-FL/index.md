@@ -1,6 +1,6 @@
 ---
 #title: "VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems"
-title: '<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42" target="_blank">Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</a>'
+title: '<a href="https://ieeexplore.ieee.org/document/9832948" target="_blank">Personalized Retrogress-Resilient Federated Learning Towards Imbalanced Medical Data</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
