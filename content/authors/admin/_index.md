@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Blockchain
   - Mobile Computing
-  - IoT
+  - Internet of Things
   - Data Security and Privacy
 social:
   - icon: envelope
