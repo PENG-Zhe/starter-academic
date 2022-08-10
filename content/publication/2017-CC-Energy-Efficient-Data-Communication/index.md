@@ -21,7 +21,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Computer Communications (**CC**)
+publication: Computer Communications
 
 date: "2017-02-01"
 doi: ""
