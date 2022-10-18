@@ -21,7 +21,7 @@ authors:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Data Engineering
+publication: IEEE Data Engineering Bulletin
 
 date: "2022-08-01"
 doi: ""
