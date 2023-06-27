@@ -4,8 +4,8 @@ role: Research Assistant Professor
 bio: ""
 interests:
   - Blockchain
-  - Mobile Computing
   - Internet of Things
+  - Cyber-Physical Systems
   - Data Security and Privacy
 social:
   - icon: envelope
@@ -29,10 +29,10 @@ social:
     icon_pack: ai
     link: media/resume.pdf
 organizations:
-  - name: Department of Computer Science
-    url: https://www.comp.hkbu.edu.hk
-  - name: Hong Kong Baptist University
-    url: https://www.hkbu.edu.hk/
+  - name: Department of Industrial and Systems Engineering
+    url: https://www.polyu.edu.hk/ise/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 education:
   courses:
     - course: Ph.D. in Computer Science
@@ -48,5 +48,5 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Dr. Zhe Peng is currently a Research Assistant Professor in the Department of [Computer Science](https://www.comp.hkbu.edu.hk) at [Hong Kong Baptist University](https://www.hkbu.edu.hk) (HKBU). Prior to joining HKBU, he was a blockchain technical director at [SF Technology](https://www.sf-tech.com.cn) in 2019. He received the Ph.D. degree in Computer Science from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk) and the M.E. degree in Information and Communication Engineering from [University of Science and Technology of China](https://www.ustc.edu.cn) in 2018 and 2013, respectively. In 2010, he received the B.E. degree in Communication Engineering from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm). During 2017-2018, he was a visiting student in the Department of Electrical and Computer Engineering at [Stony Brook University](https://www.stonybrook.edu), supervised by Prof. [Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/).
+Dr. Zhe Peng is currently a Research Assistant Professor at [Department of Industrial and Systems Engineering](https://www.polyu.edu.hk/ise/) (ISE), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). Prior to joining ISE, Dr. Peng was a Research Assistant Professor at Department of Computer Science, [Hong Kong Baptist University](https://www.hkbu.edu.hk) and the Blockchain Technical Director at [SF Technology](https://www.sf-tech.com.cn). He received his Ph.D. degree in Computer Science from The Hong Kong Polytechnic University, Master’s degree in Information and Communication Engineering from [University of Science and Technology of China](https://www.ustc.edu.cn), and Bachelor’s degree in Communication Engineering from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/index.htm). He was a visiting student in the Department of Electrical and Computer Engineering at [Stony Brook University](https://www.stonybrook.edu), supervised by Prof. [Yuanyuan Yang](https://www.ece.stonybrook.edu/~yang/). His primary research interests include Blockchain, Internet of Things, Cyber-Physical Systems, Data Security and Privacy. He has published a series of papers in prestigious journals and conferences, such as IEEE TMC, IEEE ToN, IEEE TDSC, ACM SIGMOD, ACM CCS, IEEE ICDE, IEEE INFOCOM, IEEE IROS, etc.
 

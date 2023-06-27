@@ -23,10 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant Professor
+    company: The Hong Kong Polytechnic University
+    location: Hong Kong
+    date_start: '2023-06-16'
+    date_end: ''   # '' means present
+  #  description: test
+
+  - title: Research Assistant Professor
     company: Hong Kong Baptist University
     location: Hong Kong
     date_start: '2020-01-01'
-    date_end: ''   # '' means present
+    date_end: '2023-06-15'   # '' means present
   #  description: test
 
   - title: Blockchain Technical Director
@@ -36,7 +43,7 @@ experience:
     date_end: '2019-12-31'   # '' means present
   #  description: test
         
-  - title: Visiting Student
+  - title: Visiting Scholar
     company: Stony Brook University
   #  company_url: ''
   #  company_logo: org-x
