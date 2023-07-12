@@ -23,7 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 
-date: "2022-06-02"
+date: "2023-06-02"
 doi: ""
 
 #tags: []
