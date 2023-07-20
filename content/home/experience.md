@@ -56,7 +56,7 @@ experience:
     company: TP-LINK
     location: Shenzhen, China
     date_start: '2013-07-01'
-    date_end: '2014-03-31'   # '' means present
+    date_end: '2014-06-30'   # '' means present
   #  description: Taught electronic engineering and researched semiconductor physics.
 
 design:
