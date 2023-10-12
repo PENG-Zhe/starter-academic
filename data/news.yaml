@@ -1,4 +1,8 @@
 news:
+  - content: Our paper <a href="https://ieeexplore.ieee.org/document/9786741" target="_blank">SymmeProof</a> on Blockchain Confidential Transactions accepted by <a href="https://www.computer.org/csdl/journal/tq" target="_blank">IEEE TDSC</a>.
+    news_date: 'May 2023'
+  - content: Our paper <a href="http://sites.computer.org/debull/A22june/p14.pdf" target="_blank">BlockShare</a> on Blockchain Data Sharing accepted by <a href="https://tc.computer.org/tcde/data-engineering-bulletin/" target="_blank">IEEE Data Engineering Bulletin</a>.
+    news_date: 'Oct 2022'
   - content: Our paper <a href="https://iros2022.org/" target="_blank">EPAR</a> on Augmented Reality accepted to <a href="https://iros2022.org/" target="_blank">IROS 2022</a>.
     news_date: 'Jun 2022'
   - content: Our paper <a href="https://ieeexplore.ieee.org/document/9321132" target="_blank">VFChain</a> on Blockchain-based Federated Learning selected as a popular article in <a href="https://www.comsoc.org/publications/journals/ieee-tnse" target="_blank">IEEE TNSE</a>.

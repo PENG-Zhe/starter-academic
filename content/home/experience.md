@@ -52,11 +52,11 @@ experience:
     date_end: '2018-02-28'   # '' means present
   #  description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Software Engineer
-    company: TP-LINK
-    location: Shenzhen, China
-    date_start: '2013-07-01'
-    date_end: '2014-06-30'   # '' means present
+#  - title: Software Engineer
+#    company: TP-LINK
+#    location: Shenzhen, China
+#    date_start: '2013-07-01'
+#    date_end: '2014-06-30'   # '' means present
   #  description: Taught electronic engineering and researched semiconductor physics.
 
 design:
