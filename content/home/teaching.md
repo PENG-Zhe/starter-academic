@@ -20,6 +20,7 @@ design:
 ---
 
 I have been teaching the following courses as a course leader.
+- ISE2001 Introduction to Enterprise Computing
 - COMP7200 Blockchain Technology
 - COMP4137	Blockchain Technology and Applications
 - COMP4087 Selected Topics in Web Technology and Data Engineering
