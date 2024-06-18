@@ -1,6 +1,6 @@
 ---
 #title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
-title: '<a href="https://icde2022.ieeecomputer.my/" target="_blank">vChain+: Optimizing Verifiable Blockchain Boolean Range Queries</a>'
+title: '<a href="https://ieeexplore.ieee.org/document/9835165" target="_blank">vChain+: Optimizing Verifiable Blockchain Boolean Range Queries</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
