@@ -1,12 +1,12 @@
 ---
 #title: "P<sup>2</sup>B-Trace: Privacy-Preserving Blockchain-based Contact Tracing to Combat Pandemics"
-title: '<a href="https://ieeexplore.ieee.org/document/9981149" target="_blank">EPAR: An Efficient and Privacy-Aware Augmented Reality Framework for Indoor Location-Based Services</a>'
+title: '<a href="https://iwqos2024.ieee-iwqos.org/" target="_blank">vDID: Blockchain-Enabled Verifiable Decentralized Identity Management for Web 3.0</a>'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- "**Zhe Peng**, Songlin Hou, and Yixuan Yuan"
+- "**Zhe Peng**, Jiamin Deng, Shang Gao, Helei Cui, and Bin Xiao"
 #- Robert Ford
 
 # Author notes (optional)
@@ -21,9 +21,9 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**)
+publication: IEEE/ACM International Symposium on Quality of Service (**IWQoS**)
 
-date: "2022-06-30"
+date: "2024-06-15"
 doi: ""
 
 #tags: []
